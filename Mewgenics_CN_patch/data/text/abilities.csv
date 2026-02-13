@@ -1487,7 +1487,7 @@ Recarga: Sufre daño.",Une attaque au corps-à-corps avec une forte chance de co
 NACHLADEN: Schaden erleiden.","Un attacco corpo a corpo con un'alta probabilità di colpo critico.
 RICARICA: Subisci danno.","Um ataque corpo-a-corpo com altas chances de crítico.
 RECARREGAMENTO: sofra dano.","一次近战攻击，拥有高暴击率。
-装填：受到伤害。"
+重新装填：受到伤害。"
 ABILITY_SLAPBACK2_DESC,"A melee attack with a 100% critical hit chance.
 RELOAD: Take damage.",,"Un ataque cuerpo a cuerpo con un 100 % de probabilidad de golpe crítico.
 Recarga: Sufre daño.",Une attaque au corps-à-corps avec 100&nbsp;% de chances de coup critique. RECHARGE&nbsp;: subit des dégâts.,"Ein Nahkampfangriff mit 100%iger kritischer Trefferchance.
@@ -1495,7 +1495,7 @@ NACHLADEN: Schaden erleiden.","Un attacco corpo a corpo con una probabilità di 
 RICARICA: Subisci danno.","Um ataque corpo-a-corpo com 100% de chance de crítico.
 RECARREGAMENTO: sofra dano.","一次近战攻击，
 100%暴击率。
-装填：受到伤害。"
+重新装填：受到伤害。"
 ABILITY_FINISHER_NAME,Finisher,,Finalizador,Exécution,Todesstoß,Colpo Finale,Finalizador,终结技
 ABILITY_FINISHER_DESC,"Dash forward three tiles and attack. This deals 2 damage for each action you've taken this turn.
 [s:.7](Castable once per turn.)[/s]",,"Se lanza hacia delante tres casillas y ataca. Esto inflige 2 de daño por cada acción que la unidad haya realizado este turno.
@@ -3566,7 +3566,7 @@ NACHLADEN: Gib Mana aus.","Infliggi 1 di danno a qualsiasi unità all'interno de
 RICARICA: Spendi mana","Cause 1 de dano a qualquer unidade dentro do seu campo de visão.
 RECARREGAMENTO: Gaste mana.","对你视线内的任何单位造成1点伤害。
 
-重装：消耗法力"
+重新装填：消耗法力"
 ABILITY_PING2_DESC,"Deal 1 damage to any unit within your line of sight.
 RELOAD: Spend mana
 Bonus Passive: +2 [img:int].",,"Inflige 1 de daño a cualquier unidad en su campo visual.
@@ -3579,7 +3579,7 @@ Bonus Passivo: +2 all'[img:int].","Cause 1 de dano a qualquer unidade dentro do 
 RECARREGAMENTO: Gaste mana.
 Passivo bônus: +2 de [img:int].","对你视线内的任何单位造成1点伤害。
 
-重装：消耗法力
+重新装填：消耗法力
 额外被动：+2 [img:int]。"
 ABILITY_FLASHFORWARD_NAME,Flash Forward,,Prolepsis,Flash vers l'avant,Blitzteleport,Flash Forward,Teletransporte Rápido,快进
 ABILITY_FLASHFORWARD_DESC,"Teleport to any tile. At the end of your turn, teleport back to your original tile and deal 10 damage to any unit you teleport into.",,"Se teletransporta a cualquier casilla. Al final del turno, se teletransporta a la casilla de origen e inflige 10 de daño a cualquier unidad sobre la que se teletransporte.","Vous vous téléportez vers une case. À la fin de votre tour, vous vous téléportez à la case de départ et infligez Dégâts&nbsp;+10&nbsp;à toute unité sur laquelle vous arrivez.","Teleportiere dich auf ein beliebiges Feld. Am Ende deines Zuges teleportierst du dich zurück auf dein ursprüngliches Feld und verursachst 10&nbsp;Schaden, falls du dich in eine Einheit teleportierst.","Ti teletrasporti in una casella qualsiasi. Alla fine del tuo turno, torni alla tua casella di origine e infliggi 10 di danno a qualsiasi unità su cui ti teletrasporti.","Teletransporte-se para qualquer espaço. No final do seu turno, teletransporte-se de volta para seu espaço original e cause 10 de dano em qualquer unidade para a qual você se teletransportar.","传送到任意格子。
@@ -4651,7 +4651,7 @@ Recarga: Mata algo.",Vous forcez une unité à se déplacer vers vous. RECHARGE&
 NACHLADEN: Töte etwas.","Costringi un'unità a muoversi verso di te.
 RICARICA: Uccidi qualcosa.","Force uma unidade a se mover na sua direção.
 RECARREGAMENTO: Mate algo.","强制一个单位向你移动。
-重装填：击杀一个目标。"
+重新装填：击杀一个目标。"
 ABILITY_MOCK2_DESC,"Force a unit to move towards you.
 RELOAD: Kill something.
 Bonus Ability: Slap.",,"Obliga a una unidad a moverse hacia esta.
@@ -4663,7 +4663,7 @@ RICARICA: Uccidi qualcosa.
 Abilità Bonus: Schiaffo.","Force uma unidade a se mover na sua direção.
 RECARREGAMENTO: Mate algo.
 Habilidade bônus: Tapa.","强制一个单位向你移动。
-重装填：击杀一个目标。
+重新装填：击杀一个目标。
 额外技能：甩巴掌。"
 ABILITY_SLAP_NAME,Slap,,Manotazo,Gifle,Ohrfeige,Schiaffo,Tapa,甩巴掌
 ABILITY_SLAP_DESC,"A weak melee attack.
@@ -4672,7 +4672,7 @@ Recarga: Mata algo.",Faible attaque au corps-à-corps. RECHARGE&nbsp;: tuez quel
 NACHLADEN: Töte etwas.","Un attacco corpo a corpo debole.
 RICARICA: Uccidi qualcosa.","Um ataque corpo-a-corpo fraco.
 RECARREGAMENTO: Mate algo.","一次弱的近战攻击。
-重装填：击杀一个目标。"
+重新装填：击杀一个目标。"
 ABILITY_STOOPZERK_NAME,Stoopzerk,,Cabreamiento,Piétizerk,Blödserker,Collera Stolta,Fanatismo Corcunda,蹲伏狂暴
 ABILITY_STOOPZERK_DESC,"Your [img:int] becomes 0. You can attack an extra time each turn for the rest of the battle.
 This ability becomes MORE ANGRIER!!!",,"El [img:int] se convierte en 0. Puede atacar una vez más cada turno durante el resto del combate.
@@ -5113,7 +5113,7 @@ RICARICA: Raccogli una moneta.
 [s:.7]Quest'incantesimo costa più mana ogni volta che lo usi nello stesso turno.[/s]","Jogue uma moeda que causa dano.
 RECARREGAMENTO: Colete uma moeda.
 [s:.7]Este encantamento possui um custo maior de mana a cada vez que você o lança no mesmo turno.[/s]","投掷一枚硬币造成伤害。
-RELOAD: 收集一枚硬币。
+重新装填: 收集一枚硬币。
 
 [s:.7]这项法术在同一回合每多使用一次，
 法力消耗都会增加。[/s]"
@@ -5130,7 +5130,7 @@ RECARREGAMENTO: Colete uma moeda.
 [s:.7]Este encantamento possui um custo maior de mana a cada vez que você o lança no mesmo turno.[/s]","以无限距离抛出一枚硬币，
 具有+50%暴击率且无视护盾。
 
-RELOAD: 收集一枚硬币。
+重新装填: 收集一枚硬币。
 "
 ABILITY_MOVEAGAIN_NAME,Move Again,,Removimiento,On se bouge&nbsp;!,Auffrischen,Nuovo Movimento,Removimento,再次移动
 ABILITY_MOVEAGAIN_DESC,Refresh your movement action.,,Se restaura la acción de movimiento.,Votre action de déplacement est rechargée.,Frische deine Bewegungsaktion auf.,Ricarichi la tua azione di movimento.,Reinicie sua ação de movimento.,刷新你的移动动作。
@@ -5955,7 +5955,7 @@ RICARICA: Uccidi un nemico.
 Quest'incantesimo inizia già ricaricato.","Aplique marcação em um inimigo.
 RECARREGAMENTO: Mate um inimigo.
 Este encantamento inicia recarregado.","对一个单位附加标记 5。
-补充弹药：击杀一个敌人。
+重新装填：击杀一个敌人。
 此法术初始已补充弹药。"
 ABILITY_HEDGEIN_NAME,Hedge In,,Acorralamiento,Restrictions,Einmauern,Accerchiamento,Cerca-Viva,围栏
 ABILITY_HEDGEIN_DESC,Spawn bear traps on each adjacent tile.,,Genera cepos para osos en cada casilla adyacente.,Vous faites apparaître des pièges à ours sur chaque case adjacente.,Lasse auf jedem benachbarten Feld Bärenfallen erscheinen.,Generi trappole per orsi su ogni casella adiacente.,Gere armadilhas de urso em cada espaço adjacente.,在每个相邻格子生成熊夹陷阱。
