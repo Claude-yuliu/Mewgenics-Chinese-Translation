@@ -664,32 +664,32 @@ CAT_NAME_MOD_MAN,Mr. {Catname}|1,(should be Mr. regardless of {Catname}'s gender
 CAT_NAME_MOD_MAN_M,,,,,,,,
 CAT_NAME_MOD_MAN_F,,,,,,,,
 CAT_NAME_MOD_MAN_N,,,,,,,,
-CAT_NAME_MOD_SUPER,Super-{Catname},,Super-{Catname},Super-{Catname},Super-{Catname},Super-{Catname},Super-{Catname},超级-[m:{Catname}]
+CAT_NAME_MOD_SUPER,Super-{Catname},,Super-{Catname},Super-{Catname},Super-{Catname},Super-{Catname},Super-{Catname},超级 {Catname}
 CAT_NAME_MOD_SUPER_M,,,,,,,,
 CAT_NAME_MOD_SUPER_F,,,,,,,,
 CAT_NAME_MOD_SUPER_N,,,,,,,,
-CAT_NAME_MOD_AMOEBA,{Catname}?|1,,¿{Catname}?|1,{Catname}&nbsp;?|1,{Catname}?|1,{Catname}?|1,{Catname}?|1,[m:{Catname}]？|1
+CAT_NAME_MOD_AMOEBA,{Catname}?|1,,¿{Catname}?|1,{Catname}&nbsp;?|1,{Catname}?|1,{Catname}?|1,{Catname}?|1,{Catname}？|1
 CAT_NAME_MOD_AMOEBA_M,,,,,,,,
 CAT_NAME_MOD_AMOEBA_F,,,,,,,,
 CAT_NAME_MOD_AMOEBA_N,,,,,,,,
-CAT_NAME_MOD_HIPPIE,{Catname} Moonbeam,,{Catname} Rayo de Luna,{Catname} (rayon lunaire),{Catname} Mondschein,{Catname} Raggio-di-luna,{Catname} Raio Lunar,[m:{Catname}] 月光
+CAT_NAME_MOD_HIPPIE,{Catname} Moonbeam,,{Catname} Rayo de Luna,{Catname} (rayon lunaire),{Catname} Mondschein,{Catname} Raggio-di-luna,{Catname} Raio Lunar,{Catname} 月光
 CAT_NAME_MOD_HIPPIE_M,,,,,,,,
 CAT_NAME_MOD_HIPPIE_F,,,,,,,,
 CAT_NAME_MOD_HIPPIE_N,,,,,,,,
-CAT_NAME_MOD_DEMONIC,Evil {Catname},,{Catname} infame,{Catname} (maléfique),{Catname} (Böse)|999,{Catname} crudele,{Catname} do mal,邪恶的 [m:{Catname}]
+CAT_NAME_MOD_DEMONIC,Evil {Catname},,{Catname} infame,{Catname} (maléfique),{Catname} (Böse)|999,{Catname} crudele,{Catname} do mal,邪恶 {Catname}
 CAT_NAME_MOD_DEMONIC_M,,,,,,,,
 CAT_NAME_MOD_DEMONIC_F,,,,,,,,
 CAT_NAME_MOD_DEMONIC_N,,,,,,,,
 CAT_NAME_MOD_STEVEN,Steven|-999,,Steven|-999,Steven|-999,Steven|-999,Steven|-999,Steven|-999,史蒂文|-999
-CAT_NAME_MOD_DWARF,Little {Catname}|3,,Peque {Catname}|3,{Catname} (minus)|3,Little {Catname}|3,,,小[ m:{Catname}]|3
+CAT_NAME_MOD_DWARF,Little {Catname}|3,,Peque {Catname}|3,{Catname} (minus)|3,Little {Catname}|3,,,小 {Catname}|3
 CAT_NAME_MOD_DWARF_M,,,,,,Piccolo {Catname}|3,{Catname} pequeno|3,
 CAT_NAME_MOD_DWARF_F,,,,,,Piccola {Catname}|3,{Catname} pequena|3,
 CAT_NAME_MOD_DWARF_N,,,,,,{Catname} junior|3,,
-CAT_NAME_MOD_PDWARF,Lil' {Catname}|3,,Mini-{Catname}|3,{Catname} (riquiqui)|3,Lil' {Catname}|3,{Catname} baby|3,Mini-{Catname}|3,小小的 [m:{Catname}]|3
+CAT_NAME_MOD_PDWARF,Lil' {Catname}|3,,Mini-{Catname}|3,{Catname} (riquiqui)|3,Lil' {Catname}|3,{Catname} baby|3,Mini-{Catname}|3,迷你 {Catname}|3
 CAT_NAME_MOD_PDWARF_M,,,,,,,,
 CAT_NAME_MOD_PDWARF_F,,,,,,,,
 CAT_NAME_MOD_PDWARF_N,,,,,,,,
-CAT_NAME_MOD_GIGANTISM,Big {Catname}|2,,Gran {Catname}|2,{Catname} (géant)|2,Big {Catname}|2,{Catname} grande|2,{Catname} grande|2,大 [m:{Catname}]|2
+CAT_NAME_MOD_GIGANTISM,Big {Catname}|2,,Gran {Catname}|2,{Catname} (géant)|2,Big {Catname}|2,{Catname} grande|2,{Catname} grande|2,大 {Catname}|2
 CAT_NAME_MOD_GIGANTISM_M,,,,,,,,
 CAT_NAME_MOD_GIGANTISM_F,,,,,,,,
 CAT_NAME_MOD_GIGANTISM_N,,,,,,,,
